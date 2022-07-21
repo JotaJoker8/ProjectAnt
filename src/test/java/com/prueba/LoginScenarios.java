@@ -10,7 +10,7 @@ import testlink.api.java.client.TestLinkAPIResults;
 public class LoginScenarios {
 	
 	protected WebDriver driver;
-    private String url = "https://wlsyk";
+    private String url = "https://wlsykodes.sescam.jclm.es/gimd-ykonos-client/login";
 	
 	@Before
 	public void openBrowser() throws MalformedURLException {
